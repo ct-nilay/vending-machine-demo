@@ -31,9 +31,9 @@ It has One VendingMachine controller which is responsible for the following oper
 
 ## How to Run ##
 
-As its a web API project so it doesn't has any UI part. You can simply run the application and try to access API usrls through the browser or you can use the postman. For the demo purpose, the authentication has not been implemented so you can access the APIs easily.
+As its a web API project so there isn't any UI part. You can simply run the application and try to access API usrls through the browser or you can use the postman. For the demo purpose, the authentication has not been implemented so you can access the APIs easily.
 
-The following are the urls by which the API can be aaccessed.
+The following are the URLs by which the API can be aaccessed.
 
 1. To get the available balance and display balance
 

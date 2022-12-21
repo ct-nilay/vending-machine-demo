@@ -33,7 +33,10 @@ It has One VendingMachine controller which is responsible for the following oper
 
 As its a web API project so there isn't any UI part. You can simply run the application and try to access API usrls through the browser or you can use the postman. For the demo purpose, the authentication has not been implemented so you can access the APIs easily.
 
-The following are the URLs by which the API can be aaccessed.
+After running the project, to check the working of APIs, run the following testing URL.
+`http://localhost:41548/api/test/Double?num=5`
+
+The following are the URLs by which the vendin machine's APIs can be aaccessed.
 
 1. To get the available balance and display balance
 

@@ -31,7 +31,7 @@ It has One VendingMachine controller which is responsible for the following oper
 
 ## How to Run ##
 
-As its a web API project so there isn't any UI part. You can simply run the application and try to access API usrls through the browser or you can use the postman. For the demo purpose, the authentication has not been implemented so you can access the APIs easily.
+As its a web API project so there isn't any UI part. First, download the repositor and open it in the visual studio. Then right click on the solution and click on Restore Nuget Packages. After that build the solution. Now, you can run the application and try to access APIs through the browser or you can use the postman. For the demo purpose, the authentication has not been implemented so you can access the APIs easily.
 
 After running the project, to validate the APIs working, run the following testing URL.
 

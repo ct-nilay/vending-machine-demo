@@ -35,7 +35,7 @@ As its a web API project so there isn't any UI part. You can simply run the appl
 
 After running the project, to validate the APIs working, run the following testing URL.
 
-    `http://localhost:41548/api/test/Double?num=5`
+`http://localhost:41548/api/test/Double?num=5`
 
 
 The following are the URLs by which the vending machine's APIs can be aaccessed.
